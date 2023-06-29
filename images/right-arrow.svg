@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7 11" width="7" height="11">
+	<title>Screenshot_9</title>
+	<defs>
+		<image  width="16" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAMAAADarb8dAAAAAXNSR0IB2cksfwAAADNQTFRF////7uDi9P/////00ZZjY5nR0ZZdXZbRXZbL9Pz/y5BX/+a0dFR0ruP////uuoKAtOb/QvSHkgAAACtJREFUeJxjYMAOGJlQ+cwsrOgibOxEiHBwoolwoanh5uGliM/HL8BAPgAAiXABI7Y/o0EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="-5" y="-1"/>
+</svg>
