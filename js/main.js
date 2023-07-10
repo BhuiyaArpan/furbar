@@ -5,6 +5,7 @@ $(".slider-outer-box").slick({
     autoplay: true,
     autoplaySpeed: 2000,
     speed: 800,
+    fade: true,
     lazyLoad: 'progressive',
 });
 
