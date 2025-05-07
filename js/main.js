@@ -54,7 +54,7 @@ $(".page-brand-logo-outer-box").slick({
     autoplay: true,
     autoplaySpeed: 0,
     speed: 8000,
-    pauseOnHover: true,
+    pauseOnHover: true, 
     cssEase: 'linear',
     responsive: [
         {
